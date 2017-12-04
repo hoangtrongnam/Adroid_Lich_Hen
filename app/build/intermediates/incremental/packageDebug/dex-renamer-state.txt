@@ -1,0 +1,7 @@
+#Mon Dec 04 09:53:12 ICT 2017
+base.0=C\:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d2a83a34a43a1c7109fdbd1eb86d6cfb63d395c2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ee3468509ba956a16c3dadb7b076a21ac79976c7\\classes.dex
+base.1=C\:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ee3468509ba956a16c3dadb7b076a21ac79976c7
+file.0=C\:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d2a83a34a43a1c7109fdbd1eb86d6cfb63d395c2\\classes.dex

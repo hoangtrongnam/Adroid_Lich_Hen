@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_lich_hen_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\src\\main\\res\\layout\\activity_list_lich_hen_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chuy_custom.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\chuy_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thu_chi_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_thu_chi_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group2.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\list_group2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_list_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\luuthanhcong.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\luuthanhcong.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_themgiaodich.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_themgiaodich.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cai_dat_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_cai_dat_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\malop.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\malop.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_them_lich_hen.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\src\\main\\res\\layout\\activity_main_them_lich_hen.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xoa_lichhen.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\src\\main\\res\\layout\\xoa_lichhen.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dangky.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_dangky.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\them_thanhcong.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\them_thanhcong.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row_view.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\src\\main\\res\\layout\\custom_row_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chuy_2.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\chuy_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thang_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_thang_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\luuthanhcong.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\src\\main\\res\\layout\\luuthanhcong.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xoa_custom.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\xoa_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hom_nay_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_hom_nay_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gioithieu.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_gioithieu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nam_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_nam_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cho.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_cho.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_giao_dich_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_list_giao_dich_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thong_ke_main.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\activity_thong_ke_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_row_view.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\src\\main\\res\\layout\\custom_row_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\Quanlychitieu123\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\hoang\\Desktop\\Android\\baitap\\LichHen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\layout\\abc_search_view.xml"
+    }
+]

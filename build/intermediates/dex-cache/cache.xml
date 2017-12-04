@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b149d6ae389582a6de630bc69ecd7353fdef7674">
+        <dex dex="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_25a9675a011c6b0559c4d564c1a27ad61e64c1ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff70e2dc57a99f0d6053c9ca9580fa62d5da267d">
+        <dex dex="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ee3468509ba956a16c3dadb7b076a21ac79976c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_b328f56f66e051144ff479658db2a4740d0a7c5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_9f5713d37a29622fb4f275f9cc583a7ac9ae5e47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_b578a7383e07d881df5d8105a68c8a2f4e9df112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63a727680280ace0685f157c8649430c9365b1d7">
+        <dex dex="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ff3e3771ab05df0f1a7936bb6cecce0dc69369b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6f0581cd3d8a1c2ccb532be7657bfd1541cff38e">
+        <dex dex="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d2a83a34a43a1c7109fdbd1eb86d6cfb63d395c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_35063860894e2db11a3ca3a902bf96e3d5e639be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_47134a42fd7a090a14faa9a06b6b2d3ab65553a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\hoang\Desktop\Android\Quanlychitieu123\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_52caea068169ecd1e7b05cc569c567362f551c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\hoang\Desktop\Android\baitap\LichHen\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_9290a95c6e790b13cf61f5f607f2b519438447da\classes.dex" />
+    </item>
+
+</items>
